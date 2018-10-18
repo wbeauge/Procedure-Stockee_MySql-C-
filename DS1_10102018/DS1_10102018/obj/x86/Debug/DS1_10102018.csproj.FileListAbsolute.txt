@@ -1,0 +1,14 @@
+C:\SLAM_3\DS1_10102018\DS1_10102018\bin\Debug\DS1_10102018.exe
+C:\SLAM_3\DS1_10102018\DS1_10102018\bin\Debug\DS1_10102018.pdb
+C:\SLAM_3\DS1_10102018\DS1_10102018\obj\x86\Debug\DS1_10102018.csprojResolveAssemblyReference.cache
+C:\SLAM_3\DS1_10102018\DS1_10102018\obj\x86\Debug\DS1_10102018.exe
+C:\SLAM_3\DS1_10102018\DS1_10102018\obj\x86\Debug\DS1_10102018.pdb
+F:\SLAM_3\tp\gesper\Procedure_Stockee\DS1_10102018\DS1_10102018\bin\Debug\DS1_10102018.exe
+F:\SLAM_3\tp\gesper\Procedure_Stockee\DS1_10102018\DS1_10102018\bin\Debug\DS1_10102018.pdb
+F:\SLAM_3\tp\gesper\Procedure_Stockee\DS1_10102018\DS1_10102018\bin\Debug\MySql.Data.dll
+F:\SLAM_3\tp\gesper\Procedure_Stockee\DS1_10102018\DS1_10102018\obj\x86\Debug\DS1_10102018.csprojResolveAssemblyReference.cache
+F:\SLAM_3\tp\gesper\Procedure_Stockee\DS1_10102018\DS1_10102018\obj\x86\Debug\DS1_10102018.csproj.CoreCompileInputs.cache
+F:\SLAM_3\tp\gesper\Procedure_Stockee\DS1_10102018\DS1_10102018\obj\x86\Debug\DS1_10102018.exe
+F:\SLAM_3\tp\gesper\Procedure_Stockee\DS1_10102018\DS1_10102018\obj\x86\Debug\DS1_10102018.pdb
+U:\SLAM_3\controles\Procedure_Stockee\DS1_10102018\DS1_10102018\obj\x86\Debug\DS1_10102018.exe
+U:\SLAM_3\controles\Procedure_Stockee\DS1_10102018\DS1_10102018\obj\x86\Debug\DS1_10102018.pdb
