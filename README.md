@@ -35,7 +35,7 @@
   
   >count, Sum, Min, Max, Avg.
 
-**Le dévoppement tourne autour de Consulteret mettre à jour une base de donnée:**
+**Le dévoppement tourne autour de Consultation et la mise à jour d'une base de donnée:**
 
 |Développement                                |Langages |Technique de programmation                           |
 |---------------------------------------------|:-------:|----------------------------------------------------:|
